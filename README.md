@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003876,100:00A0E9&height=220&section=header&text=Minsu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%C2%B7%20AI%20%C2%B7%20Robotics&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003876,100:00A0E9&height=220&section=header&text=Minsu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%C2%B7%20AI&descAlignY=58&descSize=20" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/minsu1111111">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A0E9&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Minsu+%F0%9F%91%8B;Embedded+Systems+Engineering+%40+INU;AI+Application+Systems+Lab" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A0E9&center=true&vCenter=true&width=640&lines=Hello%2C+I'm+Minsu+%F0%9F%91%8B;Embedded+Systems+Engineering+%40+INU;Applied+artificial+Intelligence+Systems+Lab." alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,17 +20,17 @@
 <table>
   <tr>
     <td>🏫 <b>School</b></td>
-    <td>인천대학교 (Incheon National University)</td>
+    <td>Incheon National University</td>
   </tr>
   <tr>
     <td>🔧 <b>Major</b></td>
-    <td>임베디드시스템공학과 (Dept. of Embedded Systems Engineering)</td>
+    <td>Dept. of Embedded Systems Engineering</td>
   </tr>
   <tr>
     <td>🧪 <b>Lab</b></td>
-    <td>인공지능응용시스템연구실 (AI Application Systems Lab)</td>
+    <td>Applied artificial Intelligence Systems Lab.</td>
   </tr>
-  <!-- 여기에 행을 추가하세요. 예:
+  <!-- Add more rows here, e.g.
   <tr>
     <td>📫 <b>Contact</b></td>
     <td>your@email.com</td>
@@ -41,20 +41,62 @@
 <p>
   <img src="https://img.shields.io/badge/Incheon%20National%20University-003876?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded%20Systems-00A0E9?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Application%20Systems%20Lab-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Applied%20artificial%20Intelligence%20Systems%20Lab.-FFC000?style=for-the-badge&logoColor=white" />
 </p>
 
 ## 🛠️ Tech Stack
 
-<!-- 아이콘 목록: https://skillicons.dev (i= 뒤에 콤마로 추가/삭제) -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,ros,linux,git,github,vscode&perline=8" />
+<!-- Icon list: https://skillicons.dev / Badge logos: https://simpleicons.org -->
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,bash" />
+</p>
+
+**AI · Vision · Speech**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+  <br />
+  <img src="https://img.shields.io/badge/YOLO%20(Ultralytics)-111F68?style=flat-square&logo=ultralytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+</p>
+
+**ROS 2 · Simulation**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ros" />
+  <br />
+  <img src="https://img.shields.io/badge/PX4-2E3E4F?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAVROS-3C5A99?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
+
+**Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
+  <br />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+</p>
+
+**Platform · Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi,anaconda,git,github,vscode" />
 </p>
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=minsu1111111&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=minsu1111111&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
