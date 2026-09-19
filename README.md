@@ -51,7 +51,7 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,bash" />
+  <img src="https://skillicons.dev/icons?i=c,python,ts,js,bash" />
 </p>
 
 **AI · Vision · Speech**
