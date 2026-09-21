@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE1515,100:FFCB05&height=220&section=header&text=Minsu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Gotta%20Code%20'Em%20All!&descAlignY=58&descSize=20" width="100%" />
 </p>
 
-<!-- Sprites: https://github.com/PokeAPI/sprites (3D Showdown sprites, by Pokédex number) -->
+<!-- Sprites: https://github.com/PokeAPI/sprites (animated Gen V, by Pokédex number) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/1.gif" height="56" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif" height="56" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" height="72" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/7.gif" height="56" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/137.gif" height="56" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" height="56" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" height="56" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="72" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" height="56" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" height="56" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td rowspan="4" align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/722.gif" height="80" /><br />
+      <img src="https://play.pokemonshowdown.com/sprites/gen5ani/rowlet.gif" height="80" /><br />
       <sub><b>Partner</b></sub>
     </td>
     <td>🧢 <b>Trainer</b></td>
@@ -71,13 +71,13 @@
 
 <!-- Icon list: https://skillicons.dev / Badge logos: https://simpleicons.org -->
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/137.gif" height="32" /> **Languages** · <sub>Normal type</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" height="32" /> **Languages** · <sub>Normal type</sub>
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,python,ts,js,bash" />
 </p>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/65.gif" height="32" /> **AI · Vision · Speech** · <sub>Psychic type</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif" height="32" /> **AI · Vision · Speech** · <sub>Psychic type</sub>
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
@@ -91,7 +91,7 @@
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/18.gif" height="32" /> **ROS 2 · Simulation** · <sub>Flying type</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/18.gif" height="32" /> **ROS 2 · Simulation** · <sub>Flying type</sub>
 
 <p>
   <img src="https://skillicons.dev/icons?i=ros" />
@@ -102,7 +102,7 @@
   <img src="https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 </p>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/479.gif" height="32" /> **Mobile** · <sub>Electric type</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" height="32" /> **Mobile** · <sub>Electric type</sub>
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,androidstudio" />
@@ -110,7 +110,7 @@
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/82.gif" height="32" /> **Platform · Tools** · <sub>Steel type</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/82.gif" height="32" /> **Platform · Tools** · <sub>Steel type</sub>
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi,anaconda,git,github,vscode" />
