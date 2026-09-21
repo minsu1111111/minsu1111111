@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120">
+  <style>
+    .ball { transform-origin: 60px 92px; animation: wobble 4s ease-in-out infinite; }
+    .btn { animation: blink 4s linear infinite; }
+    .star { opacity: 0; transform-box: fill-box; transform-origin: center; animation: pop 4s ease-out infinite; }
+    .s2 { animation-delay: .08s; } .s3 { animation-delay: .16s; }
+    .msg { opacity: 0; animation: show 4s ease-out infinite; font: bold 22px 'Courier New', monospace; fill: #EE1515; }
+    .sub { opacity: 0; animation: show 4s ease-out infinite; font: 14px 'Courier New', monospace; fill: #3B4CCA; }
+    @keyframes wobble {
+      0%, 8% { transform: rotate(0); }
+      14% { transform: rotate(-22deg); } 20% { transform: rotate(0); }
+      30% { transform: rotate(22deg); } 36% { transform: rotate(0); }
+      46% { transform: rotate(-22deg); } 52%, 100% { transform: rotate(0); }
+    }
+    @keyframes blink {
+      0%, 55% { fill: #ffffff; }
+      58% { fill: #FFCB05; } 62% { fill: #ffffff; } 66%, 100% { fill: #FFCB05; }
+    }
+    @keyframes pop {
+      0%, 60% { opacity: 0; transform: scale(.2) translateY(10px); }
+      68% { opacity: 1; transform: scale(1.2) translateY(-4px); }
+      80% { opacity: 1; transform: scale(1) translateY(-8px); }
+      92%, 100% { opacity: 0; transform: scale(.8) translateY(-14px); }
+    }
+    @keyframes show {
+      0%, 62% { opacity: 0; } 70%, 94% { opacity: 1; } 100% { opacity: 0; }
+    }
+  </style>
+
+  <g class="ball">
+    <circle cx="60" cy="60" r="32" fill="#ffffff" stroke="#222" stroke-width="4"/>
+    <path d="M28 60 A32 32 0 0 1 92 60 Z" fill="#EE1515" stroke="#222" stroke-width="4" stroke-linejoin="round"/>
+    <rect x="28" y="57" width="64" height="6" fill="#222"/>
+    <circle cx="60" cy="60" r="11" fill="#ffffff" stroke="#222" stroke-width="4"/>
+    <circle class="btn" cx="60" cy="60" r="5" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+    <ellipse cx="46" cy="42" rx="7" ry="4" fill="#ffffff" opacity=".45" transform="rotate(-30 46 42)"/>
+  </g>
+
+  <g fill="#FFCB05" stroke="#C79E00" stroke-width="1">
+    <path class="star" d="M40 20 l3 7 7 1 -5 5 1 7 -6 -3 -6 3 1 -7 -5 -5 7 -1 z"/>
+    <path class="star s2" d="M60 10 l3 7 7 1 -5 5 1 7 -6 -3 -6 3 1 -7 -5 -5 7 -1 z"/>
+    <path class="star s3" d="M80 20 l3 7 7 1 -5 5 1 7 -6 -3 -6 3 1 -7 -5 -5 7 -1 z"/>
+  </g>
+
+  <text class="msg" x="120" y="58">Gotcha!</text>
+  <text class="sub" x="120" y="84">Thanks for visiting, Trainer!</text>
+</svg>
