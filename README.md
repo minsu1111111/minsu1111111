@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td rowspan="4" align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="80" /><br />
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/163.gif" height="80" /><br />
       <sub><b>Partner</b></sub>
     </td>
     <td>🧢 <b>Trainer</b></td>
@@ -108,23 +108,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi,anaconda,git,github,vscode" />
-</p>
-
-## 📕 Pokédex (Featured Projects)
-
-<p align="center">
-  <a href="https://github.com/minsu1111111/sim_drone">
-    <img src="https://gh-card.dev/repos/minsu1111111/sim_drone.svg" />
-  </a>
-  <a href="https://github.com/minsu1111111/Unita_lerobot">
-    <img src="https://gh-card.dev/repos/minsu1111111/Unita_lerobot.svg" />
-  </a>
-  <a href="https://github.com/minsu1111111/ARDA">
-    <img src="https://gh-card.dev/repos/minsu1111111/ARDA.svg" />
-  </a>
-  <a href="https://github.com/minsu1111111/rig_tools">
-    <img src="https://gh-card.dev/repos/minsu1111111/rig_tools.svg" />
-  </a>
 </p>
 
 ## 🏅 Gym Badges (GitHub Activity)
