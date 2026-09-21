@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td rowspan="4" align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/163.gif" height="80" /><br />
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/722.gif" height="80" /><br />
       <sub><b>Partner</b></sub>
     </td>
     <td>🧢 <b>Trainer</b></td>
