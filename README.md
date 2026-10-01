@@ -63,6 +63,14 @@
   <img src="https://img.shields.io/badge/Applied%20artificial%20Intelligence%20Systems%20Lab.-3B4CCA?style=for-the-badge&logoColor=white" />
 </p>
 
+## 🏆 Hall of Fame (Awards)
+
+- **2026** 제22회 인천대 창의적 종합설계 경진대회 장려상 — [하천 표류 예측 및 수색 지원 시스템](https://github.com/minsu1111111/ARDA) (레이더·열화상으로 낙하를 감지하고 표류 예측으로 우선 수색 구역 제시)
+- **2025** 제10회 INU Maker 경진대회 장려상 — 인입런 할래말래 (지하철역 객체 인식 기반 혼잡도 시각화 시스템)
+- **2024** 제9회 INU Maker 경진대회 장려상 — [음주하면 횃 잠금!](https://github.com/minsu1111111/drunk-kickboard-lock) (음주 측정 후 킥보드 잠금 장치)
+
+<!-- TODO: 2025 작품 저장소를 만들면 작품명에 링크 추가 -->
+
 ## 🎒 My Pokémon Party
 
 <p>
