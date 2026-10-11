@@ -76,7 +76,7 @@
 ## 🎒 My Pokémon Party
 
 <p>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /> <sub>5 / 6</sub>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /> <sub>6 / 6</sub>
 </p>
 
 <!-- Icon list: https://skillicons.dev / Badge logos: https://simpleicons.org -->
@@ -84,7 +84,7 @@
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" height="32" /> **Languages** · <sub>Normal type</sub>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,ts,js,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,bash" />
 </p>
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif" height="32" /> **AI · Vision · Speech** · <sub>Psychic type</sub>
@@ -106,10 +106,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=ros" />
   <br />
-  <img src="https://img.shields.io/badge/PX4-2E3E4F?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/MAVROS-3C5A99?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeRobot%20(ACT)-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/MuJoCo-1F4E79?style=flat-square&logoColor=white" />
 </p>
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" height="32" /> **Mobile** · <sub>Electric type</sub>
@@ -118,12 +116,26 @@
   <img src="https://skillicons.dev/icons?i=react,androidstudio" />
   <br />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/82.gif" height="32" /> **Platform · Tools** · <sub>Steel type</sub>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" height="32" /> **Web · Backend · Cloud** · <sub>Fire type</sub>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi,anaconda,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,vite,postgres,docker,aws,githubactions" />
+  <br />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20S3%20·%20CloudFront%20·%20ECR-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+</p>
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/82.gif" height="32" /> **Embedded · Platform · Tools** · <sub>Steel type</sub>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,windows,anaconda,git,github,vscode" />
+  <br />
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/mmWave%20Radar%20(TI%20IWR6843)-CC0000?style=flat-square&logo=texasinstruments&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
 </p>
 
 ## 🏅 Gym Badges (GitHub Activity)
