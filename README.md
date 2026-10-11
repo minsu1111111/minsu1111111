@@ -134,7 +134,6 @@
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,windows,anaconda,git,github,vscode" />
   <br />
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/mmWave%20Radar%20(TI%20IWR6843)-CC0000?style=flat-square&logo=texasinstruments&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
 </p>
 
