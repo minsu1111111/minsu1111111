@@ -65,7 +65,7 @@
 
 ## 🏆 Hall of Fame (Awards)
 
-- **2026** PAC 2026 피지컬 AI 챌린지 피지컬AI허브상 (한국지능정보사회진흥원장상) — [음성 제어 기반 양팔 로봇 안전 주입 시스템](https://github.com/minsu1111111/lerobot_pac)
+- **2026** PAC 2026 피지컬 AI 챌린지 피지컬AI허브상 (한국지능정보사회진흥원장상) — [음성 제어 기반 양팔 로봇 안전 주입 시스템](https://github.com/minsu1111111/lerobot_pac) · [📰 영남일보 기사](https://m.yeongnam.com/view.php?key=20261011022023703)
 - **2026** 제22회 인천대 창의적 종합설계 경진대회 장려상 — [하천 표류 예측 및 수색 지원 시스템](https://github.com/minsu1111111/ARDA) (레이더·열화상으로 낙하를 감지하고 표류 예측으로 우선 수색 구역 제시)
 - **2025** 제10회 INU Maker 경진대회 장려상 — 인입런 할래말래 (지하철역 객체 인식 기반 혼잡도 시각화 시스템)
 - **2024** 제9회 INU Maker 경진대회 장려상 — [음주하면 횃 잠금!](https://github.com/minsu1111111/drunk-kickboard-lock) (음주 측정 후 킥보드 잠금 장치)
