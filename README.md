@@ -1,69 +1,25 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE1515,100:FFCB05&height=220&section=header&text=Minsu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Gotta%20Code%20'Em%20All!&descAlignY=58&descSize=20" width="100%" />
-</p>
-
-<!-- Sprites: https://github.com/PokeAPI/sprites (animated Gen V, by Pokédex number) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" height="56" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" height="56" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="72" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" height="56" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" height="56" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=200&section=header&text=Minsu&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%C2%B7%20Robotics%20%C2%B7%20AI&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/minsu1111111">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=EE1515&center=true&vCenter=true&width=640&lines=A+wild+MINSU+appeared!;MINSU+used+EMBEDDED+SYSTEMS!;It's+super+effective!;MINSU+is+training+at+the+AI+Systems+Lab." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&lines=Embedded+Systems+Engineering+%40+INU;Applied+AI+Systems+Lab.;Robotics+%C2%B7+Vision+%C2%B7+Embedded+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minsu1111111&label=Trainers%20encountered&color=EE1515&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=minsu1111111&label=Profile%20views&color=3B82F6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" />
-</p>
+## 👋 About
 
-## 🎴 Trainer Card
+| | |
+|---|---|
+| 🏫 **University** | Incheon National University |
+| 🎓 **Department** | Dept. of Embedded Systems Engineering |
+| 🔬 **Lab** | Applied artificial Intelligence Systems Lab. |
 
-<table>
-  <tr>
-    <td rowspan="4" align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/gen5ani/rowlet.gif" height="80" /><br />
-      <sub><b>Partner</b></sub>
-    </td>
-    <td>🧢 <b>Trainer</b></td>
-    <td>Minsu</td>
-  </tr>
-  <tr>
-    <td>🏠 <b>Hometown</b></td>
-    <td>Incheon National University</td>
-  </tr>
-  <tr>
-    <td>⚡ <b>Type</b></td>
-    <td>Dept. of Embedded Systems Engineering</td>
-  </tr>
-  <tr>
-    <td>🏟️ <b>Gym</b></td>
-    <td>Applied artificial Intelligence Systems Lab.</td>
-  </tr>
-  <!-- Add more rows here, e.g.
-  <tr>
-    <td>📫 <b>Contact</b></td>
-    <td>your@email.com</td>
-  </tr>
-  -->
-</table>
-
-<p>
-  <img src="https://img.shields.io/badge/Incheon%20National%20University-EE1515?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-FFCB05?style=for-the-badge&logo=arduino&logoColor=black" />
-  <img src="https://img.shields.io/badge/Applied%20artificial%20Intelligence%20Systems%20Lab.-3B4CCA?style=for-the-badge&logoColor=white" />
-</p>
-
-## 🏆 Hall of Fame (Awards)
+## 🏆 Awards
 
 - **2026** PAC 2026 피지컬 AI 챌린지 피지컬AI허브상 (한국지능정보사회진흥원장상) — [음성 제어 기반 양팔 로봇 안전 주입 시스템](https://github.com/minsu1111111/lerobot_pac) · [📰 영남일보 기사](https://m.yeongnam.com/view.php?key=20261011022023703)
 - **2026** 제22회 인천대 창의적 종합설계 경진대회 장려상 — [하천 표류 예측 및 수색 지원 시스템](https://github.com/minsu1111111/ARDA) (레이더·열화상으로 낙하를 감지하고 표류 예측으로 우선 수색 구역 제시)
@@ -73,21 +29,17 @@
 <!-- TODO: 2025 작품 저장소를 만들면 작품명에 링크 추가 -->
 <!-- TODO: PAC 2026 수상명은 10/23 시상식 상장 기재 그대로 확인 -->
 
-## 🎒 My Pokémon Party
-
-<p>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" /> <sub>6 / 6</sub>
-</p>
+## 🛠 Tech Stack
 
 <!-- Icon list: https://skillicons.dev / Badge logos: https://simpleicons.org -->
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" height="32" /> **Languages** · <sub>Normal type</sub>
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,bash" />
 </p>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif" height="32" /> **AI · Vision · Speech** · <sub>Psychic type</sub>
+### AI · Vision · Speech
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
@@ -101,7 +53,7 @@
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/18.gif" height="32" /> **ROS 2 · Simulation** · <sub>Flying type</sub>
+### Robotics · Simulation
 
 <p>
   <img src="https://skillicons.dev/icons?i=ros" />
@@ -110,7 +62,7 @@
   <img src="https://img.shields.io/badge/MuJoCo-1F4E79?style=flat-square&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" height="32" /> **Mobile** · <sub>Electric type</sub>
+### Mobile
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,androidstudio" />
@@ -119,28 +71,26 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" height="32" /> **Web · Backend · Cloud** · <sub>Fire type</sub>
+### Web · Backend · Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,react,vite,postgres,docker,aws,githubactions" />
   <br />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20S3%20·%20CloudFront%20·%20ECR-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/82.gif" height="32" /> **Embedded · Platform · Tools** · <sub>Steel type</sub>
+### Embedded · Platform · Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,windows,anaconda,git,github,vscode" />
   <br />
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
 </p>
 
-## 🏅 Gym Badges (GitHub Activity)
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=minsu1111111&background=FFFFFF&border=EE1515&ring=EE1515&fire=FFCB05&currStreakNum=EE1515&sideNums=3B4CCA&currStreakLabel=EE1515&sideLabels=3B4CCA&dates=434343&stroke=EE1515" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=minsu1111111&background=FFFFFF&border=3B82F6&ring=3B82F6&fire=1E3A8A&currStreakNum=1E3A8A&sideNums=1E3A8A&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=434343&stroke=3B82F6" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -151,11 +101,7 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="./assets/pokeball-catch.svg" alt="Gotcha!" />
-</p>
-
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCB05,100:EE1515&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=100&section=footer" width="100%" />
 </p>
